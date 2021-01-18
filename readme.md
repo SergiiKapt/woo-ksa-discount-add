@@ -7,8 +7,8 @@ This plugin allows you to separately configure a discount for products:
 
 ## Installing the plugin
 
-1. Download zip-file
-2. Rename on 'woo-ksa-discount-add.zip'
+1. Download and unzip zip-file 
+2. Rename folder on 'woo-ksa-discount-add'
 3. Install the plugin 
 4. Activate the plugin
 
