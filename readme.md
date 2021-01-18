@@ -10,7 +10,7 @@ This plugin allows you to separately configure a discount for products:
 1. Download and install the plugin
 2. Activate the plugin
 
-##Do after installation
+## Do after installation
 
 1. Go to woocommerce settings.
 2. Select the 'Discount percentage' tab.
