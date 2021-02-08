@@ -1,4 +1,4 @@
-## Woocommerse KSASK Discount addon
+## Woocommerсe KSASK Discount addon
 
 This plugin allows you to separately configure a discount for products:
 
